@@ -245,7 +245,6 @@ justify-content: center;
 /*=============== FILTERS TABS ===============*/
 .filters__content{
   margin: 0.5rem 0 0.1rem;
-  background-color: var(--text-color-lighten);
   padding: .375rem;
   border-radius: .75rem;
   display: flex;
